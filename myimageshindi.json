@@ -8,8 +8,8 @@
 	
 {
 		"myurl": "https://praveenamar.github.io/image_five.png",
-		"event": "दिल्ली होमगार्ड्स",
-		"place": "राजा गार्डन - दिल्ली"
+		"event": "सीबीएसई क्षेत्रीय कार्यालय",
+		"place": "मंगोलपुरी - दिल्ली"
 
 	},
 	{
@@ -17,5 +17,52 @@
 		"event": "एमसी श्रीमती आभा चौहानजी",
 		"place": "उत्तम नगर - दिल्ली"
 
+	},
+
+	{
+		"myurl": "https://praveenamar.github.io/image_four.png",
+		"event": "BJRM अस्पताल",
+		"place": "जहांगीरपुरी - दिल्ली"
+
+	},
+
+	{
+		"myurl": "https://alexhudda.github.io/image_ten.png",
+		"event": "राक नर्सिंग कॉलेज",
+		"place": "मूलचंद - दिल्ली"
+	},
+
+	{
+		"myurl": "https://praveenamar.github.io/image_seven.png",
+		"event": "साउथ सिटी 2 - रेड क्रॉस",
+		"place": "गुरुग्राम - हरियाणा"
+
+	},
+
+	{
+		"myurl": "https://praveenamar.github.io/image_one.jpg",
+		"event": "AAP M L A Ch फतेह सिंहजी",
+		"place": "गोकुलपुरी - दिल्ली"
+
+	},
+
+	{
+		"myurl": "https://praveenamar.github.io/image_eight.jpg",
+		"event": "MoH&FW GoI Meeting 9.9.16",
+		"place": "Nirman Bhawan - Delhi"
+
+	},
+
+	{
+		"myurl": "https://praveenamar.github.io/image_two.jpg",
+		"event": "AAP MLA Haji MdIshraqKhan",
+		"place": "Seelampur Area - Delhi"
+
+	},
+
+	{
+		"myurl": "https://praveenamar.github.io/image_three.jpg",
+		"event": "AAP MLA Sh Rajesh Guptaji",
+		"place": "Wazirpur Area - Delhi"
 	}
 ]
